@@ -43,6 +43,7 @@
 
 .nav-link:hover::after {
   right: 0;
+  
 }
 
 @media (max-width: 480px) {
