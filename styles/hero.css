@@ -1,6 +1,7 @@
 .hero {
   text-align: center;
   color: var(--color-main-black);
+  padding-bottom: 70px;
 }
 
 .hero__title {
